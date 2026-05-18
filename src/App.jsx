@@ -110,7 +110,7 @@ export default function AICreatorMarketplaceLanding() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
           <div className="flex items-center">
             <img
-              src="/images/promptedit-logo.png"
+              src="/logo.png"
               alt="PromptEdit"
               className="h-12 w-auto md:h-16"
             />
